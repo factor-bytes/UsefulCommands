@@ -9,3 +9,8 @@ Test Connection
 test-netconnection <domain/IP> -p portNumber
 ```
 
+### Linux  
+Net Cat
+```
+nc -vz <domain/IP> portNumber
+```
