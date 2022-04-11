@@ -4,11 +4,8 @@ Some Useful command line commands
 Test Connectivity over a port
 
 ### Windows
+Test Connection
 ```
-test-netconnection <domain/IP> -p portnumber
-```
-
-### Linux
+test-netconnection <domain/IP> -p portNumber
 ```
 
-```
